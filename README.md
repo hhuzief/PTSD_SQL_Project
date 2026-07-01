@@ -68,7 +68,7 @@ This project is open source and available for educational and research purposes.
 
 ## Contact & Support
 
-For questions or inquiries about this project, please contact the repository owner:
+For questions or inquiries about this project, please contact me
 - **GitHub**: [@hhuzief](https://github.com/hhuzief)
 
 ## Disclaimer
@@ -76,5 +76,3 @@ For questions or inquiries about this project, please contact the repository own
 This project is intended for educational and research purposes. Any clinical or medical interpretations should be reviewed by qualified healthcare professionals. The data and analyses provided should not be used for clinical decision-making without appropriate expert review.
 
 ---
-
-**Last Updated**: July 2026
